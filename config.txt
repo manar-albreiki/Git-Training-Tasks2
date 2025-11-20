@@ -5,3 +5,6 @@
  MAX_USERS: 100
  TIMEOUT: 5000
 
+ API_URL: http://development.localhost
+ MAX_USERS: 100
+ DEBUG_MODE: true
